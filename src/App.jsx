@@ -1037,12 +1037,11 @@ function App() {
                       EXPERIENCIA PERSONALIZADA
                     </h1>
                     <p className="py-4">
-                      Cada tour es único, y nunca sigo una ruta estandarizada.
+                      Cada tour es único, y nunca sigo una misma ruta estandarizada.
                       Con incontables kilómetros de exploración a mis espaldas,
-                      estoy emocionado de desarrollar una ruta personalizada
-                      contigo que incluya todos los elementos imprescindibles.
-                      Si hay algo específico que te gustaría añadir, se puede
-                      incluir fácilmente en nuestro tour de un día. Solo házmelo
+                      desarrollaremos una ruta personalizada
+                      en conjunto que incluya todos los elementos imprescindibles.
+                      Si hay algo específico que te gustaría añadir, lo incluiremos fácilmente en nuestro tour de un día. Solo házme
                       saber tus preferencias, y juntos crearemos la experiencia
                       definitiva.
                     </p>
@@ -1371,14 +1370,13 @@ function App() {
                         EXPERIENCIA PERSONALIZADA
                       </h1>
                       <p className="py-4">
-                        Cada tour es único, y nunca sigo una ruta estandarizada.
-                        Con incontables kilómetros de exploración a mis
-                        espaldas, estoy emocionado de desarrollar una ruta
-                        personalizada contigo que incluya todos los elementos
-                        imprescindibles. Si hay algo específico que te gustaría
-                        añadir, se puede incluir fácilmente en nuestro tour de
-                        un día. Solo házmelo saber tus preferencias, y juntos
-                        crearemos la experiencia definitiva.
+                     Cada tour es único, y nunca sigo una misma ruta estandarizada.
+                      Con incontables kilómetros de exploración a mis espaldas,
+                      desarrollaremos una ruta personalizada
+                      en conjunto que incluya todos los elementos imprescindibles.
+                      Si hay algo específico que te gustaría añadir, lo incluiremos fácilmente en nuestro tour de un día. Solo házme
+                      saber tus preferencias, y juntos crearemos la experiencia
+                      definitiva.
                       </p>
                     </div>
                   </div>
