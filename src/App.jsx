@@ -99,7 +99,7 @@ function App() {
   'Photography Tours',
   'Boat Rides',
   'Festivals and Events',
-  'Museums',
+  'Museums'
                       ]}
                       typeSpeed={50}
                       backSpeed={40}
@@ -432,7 +432,7 @@ function App() {
   'Photography Tours',
   'Boat Rides',
   'Festivals and Events',
-  'Museums',
+  'Museums'
                       ]}
                       typeSpeed={50}
                       backSpeed={40}
@@ -759,7 +759,7 @@ function App() {
                     <ReactTyped
                       className="uppercase md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
                       strings={[
-                     strings={[
+                     
   'Mercados',
   'Caminatas en la Naturaleza y la Ciudad',
   'Historia',
@@ -772,8 +772,8 @@ function App() {
   'Tours Fotográficos',
   'Paseos en Barco',
   'Festivales y Eventos',
-  'Museos',
-]}
+  'Museos'
+
                       ]}
                       typeSpeed={50}
                       backSpeed={40}
@@ -813,10 +813,10 @@ function App() {
                       Porque vivo, como, trabajo y duermo aquí
                     </h1>
                     <p className="text-justify">
-                      Vivir como residente en Japón con una familia local me ha
+                      Vivir como residente en Japón, con una familia local, me ha
                       permitido entender la cultura y la comunidad local de una
                       manera más profunda. Como un viajero entusiasta desde
-                      2018, cuando me mudé por primera vez a Australia, me di
+                      2018, cuando me fui por primera vez a Australia, me di
                       cuenta de lo emocionante y, a veces, difícil que puede ser
                       explorar lo desconocido.
                       <br />
@@ -829,9 +829,9 @@ function App() {
                       Después de algún tiempo explorando de ida y vuelta,
                       adquirí la confianza para moverme por las ciudades sin
                       siquiera entender el idioma local. Ahora, con una base
-                      sólida en el idioma japonés y con varios tesoros y lugares
+                      sólida del idioma y con varios tesoros y lugares
                       ocultos listos para mostrarte, con gusto te mostraré todo
-                      lo que una vez me mostraron y más. No serás un turista
+                      lo que alguna vez me mostraron y más. No serás un turista
                       conmigo, sino un viajero.
                     </p>
                   </div>
@@ -1107,7 +1107,7 @@ function App() {
   'Tours Fotográficos',
   'Paseos en Barco',
   'Festivales y Eventos',
-  'Museos',
+  'Museos'
                         ]}
                         typeSpeed={50}
                         backSpeed={40}
