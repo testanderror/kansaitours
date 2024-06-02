@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #000300;
+}
+
+@font-face {
+  font-family: 'Nagayama';
+  src: url('./assets/nagayama_kai08.otf') format('opentype');
+}
+
+#book{
+  animation: blinker 1.4s ease infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
