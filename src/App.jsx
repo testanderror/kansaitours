@@ -781,7 +781,7 @@ function App() {
                     />
                   </div>
                   <p className="relative top-[65px] md:text-2xl text-xl mx-2 text-white">
-                    Nos encontraremos en el lobby de tu hotel y te acompañaré en este día completo de tour. Serás testigo de la historia y belleza que ofrecen estas ciudades centenarias.{' '}
+                    Te ire a buscar al lobby de tu hotel y te acompañaré en este día completo de recorrido. Ser&aacute;s testigo de la historia y belleza que ofrecen estas ciudades centenarias.{' '}
                   </p>
                   <button
                     id="book"
@@ -1115,7 +1115,7 @@ function App() {
                       />
                     </div>
                     <p className="relative top-[65px] md:text-2xl text-xl mx-2 text-white">
-                      Nos encontraremos en el lobby de tu hotel y te acompañaré en este día completo de tour. Serás testigo de la historia y belleza que ofrecen estas ciudades centenarias.{' '}
+                      Te ire a buscar al lobby de tu hotel y te acompañaré en este día completo de recorrido. Ser&aacute;s testigo de la historia y belleza que ofrecen estas ciudades centenarias.{' '}
                     </p>
                     <button
                       id="book"
