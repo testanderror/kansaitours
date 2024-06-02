@@ -87,13 +87,22 @@ function App() {
                       className="uppercase md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
                       strings={[
                         'Temples and Shrines',
-                        'Shopping in Markets ',
-                        'Nature and in-city Walks',
-                        'Historical Insights',
-                        'Cultural Immersion',
+  'Shopping in Markets',
+  'Nature and in-city Walks',
+  'Historical Insights',
+  'Cultural Immersion',
+  'Local Cuisine Tasting',
+  'Tea Ceremonies',
+  'Art and Craft',
+  'Nightlife Exploration',
+  'Hot Springs',
+  'Photography Tours',
+  'Boat Rides',
+  'Festivals and Events',
+  'Museums',
                       ]}
-                      typeSpeed={60}
-                      backSpeed={50}
+                      typeSpeed={50}
+                      backSpeed={40}
                       loop
                     />
                   </div>
@@ -411,14 +420,22 @@ function App() {
                     <ReactTyped
                       className="uppercase md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
                       strings={[
-                        'Temples and Shrines',
-                        'Shopping in Markets ',
-                        'Nature and in-city Walks',
-                        'Historical Insights',
-                        'Cultural Immersion',
+                       'Shopping in Markets',
+  'Nature and in-city Walks',
+  'Historical Insights',
+  'Cultural Immersion',
+  'Local Cuisine Tasting',
+  'Tea Ceremonies',
+  'Art and Craft',
+  'Nightlife Exploration',
+  'Hot Springs',
+  'Photography Tours',
+  'Boat Rides',
+  'Festivals and Events',
+  'Museums',
                       ]}
-                      typeSpeed={60}
-                      backSpeed={50}
+                      typeSpeed={50}
+                      backSpeed={40}
                       loop
                     />
                   </div>
@@ -742,14 +759,24 @@ function App() {
                     <ReactTyped
                       className="uppercase md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
                       strings={[
-                        'Templos y Santuarios',
-                        'Paseo por los mercados',
-                        'naturaleza y paseos citadinos',
-                        'Apuntes históricos',
-                        'Inmersión cultural',
+                     strings={[
+  'Mercados',
+  'Caminatas en la Naturaleza y la Ciudad',
+  'Historia',
+  'Inmersión Cultural',
+  'Degustación de Cocina Local',
+  'Ceremonias del Té',
+  'Arte y Artesanía',
+  'Vida Nocturna',
+  'Aguas Termales',
+  'Tours Fotográficos',
+  'Paseos en Barco',
+  'Festivales y Eventos',
+  'Museos',
+]}
                       ]}
-                      typeSpeed={60}
-                      backSpeed={50}
+                      typeSpeed={50}
+                      backSpeed={40}
                       loop
                     />
                   </div>
@@ -1070,14 +1097,22 @@ function App() {
                       <ReactTyped
                         className="uppercase md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
                         strings={[
-                          'Templos y Santuarios',
-                          'Paseo por los mercados',
-                          'naturaleza y paseos citadinos',
-                          'Apuntes históricos',
-                          'Inmersión cultural',
+                  'Mercados',
+  'Caminatas en la Naturaleza y la Ciudad',
+  'Historia',
+  'Inmersión Cultural',
+  'Degustación de Cocina Local',
+  'Ceremonias del Té',
+  'Arte y Artesanía',
+  'Vida Nocturna',
+  'Aguas Termales',
+  'Tours Fotográficos',
+  'Paseos en Barco',
+  'Festivales y Eventos',
+  'Museos',
                         ]}
-                        typeSpeed={60}
-                        backSpeed={50}
+                        typeSpeed={50}
+                        backSpeed={40}
                         loop
                       />
                     </div>
