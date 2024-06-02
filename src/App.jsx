@@ -761,7 +761,7 @@ function App() {
                       strings={[
                      
   'Mercados',
-  'Caminatas en la Naturaleza y la Ciudad',
+  'Caminatas entre Naturaleza y Ciudad',
   'Historia',
   'Inmersión Cultural',
   'Degustación de Cocina Local',
@@ -1095,7 +1095,7 @@ function App() {
                         className="uppercase md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
                         strings={[
                   'Mercados',
-  'Caminatas en la Naturaleza y la Ciudad',
+  'Caminatas entre Naturaleza y Ciudad',
   'Historia',
   'Inmersión Cultural',
   'Degustación de Cocina Local',
