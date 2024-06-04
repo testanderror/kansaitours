@@ -15,6 +15,10 @@ import image9 from '../src/assets/pastTours/9.jpg';
 import image10 from '../src/assets/pastTours/10.jpg';
 import image11 from '../src/assets/pastTours/13.jpg';
 import image12 from '../src/assets/pastTours/12.jpg';
+import image14 from '../src/assets/pastTours/14.jpg';
+import image15 from '../src/assets/pastTours/15.jpg';
+import image16 from '../src/assets/pastTours/16.jpg';
+import image17 from '../src/assets/pastTours/17.jpg';
 
 function App() {
   const [language, setLanguage] = useState('english');
@@ -187,6 +191,18 @@ function App() {
                 <div>
                   <div className="grid grid-cols-2 gap-1 md:grid-cols-3">
                     {/*  */}
+                    
+             <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Tenryu Temple @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image16} alt="" />
+                    </div>
+                    
+                    {/*  */}
 
                     <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
@@ -212,6 +228,18 @@ function App() {
 
                     {/*  */}
 
+                                <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Bamboo Forest @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image15} alt="" />
+                    </div>
+
+                    {/*  */}
+
                     <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
                         <div className="absolute inset-0 bg-black opacity-70"></div>
@@ -220,6 +248,18 @@ function App() {
                         </div>
                       </div>
                       <img src={image4} alt="" />
+                    </div>
+
+                    {/*  */}
+
+                              <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Mount Top @ Fushimi Inari
+                        </div>
+                      </div>
+                      <img src={image14} alt="" />
                     </div>
 
                     {/*  */}
@@ -259,6 +299,16 @@ function App() {
                     </div>
 
                     {/*  */}
+
+                                 <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Kiyomizudera @ Kyoto
+                        </div>
+                      </div>
+                      <img src={image17} alt="" />
+                    </div>
 
                     {/*  */}
 
@@ -862,11 +912,22 @@ function App() {
                   <div className="grid grid-cols-2 gap-1 md:grid-cols-3">
                     {/*  */}
 
+
+                                    <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Cumbre Monte Inari @ Kyoto
+                        </div>
+                      </div>
+                      <img src={image14} alt="" />
+                    </div>
+                    
                     <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
                         <div className="absolute inset-0 bg-black opacity-70"></div>
                         <div className="mx-auto text-white z-0 self-center uppercase">
-                          Shinsekai
+                          Shinsekai @ Osaka
                         </div>
                       </div>
                       <img src={image1} alt="" />
@@ -910,6 +971,18 @@ function App() {
 
                     {/*  */}
 
+                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Bosque de Bambús @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image15} alt="" />
+                    </div>
+
+                                        {/*  */}
+
                     <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
                         <div className="absolute inset-0 bg-black opacity-70"></div>
@@ -932,8 +1005,18 @@ function App() {
                       <img src={image5} alt="" />
                     </div>
 
-                    {/*  */}
+                    
 
+                    {/*  */}
+         <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Templo Tenryu @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image16} alt="" />
+                    </div>
                     {/*  */}
 
                     <div className="relative">
@@ -951,6 +1034,18 @@ function App() {
                         <div className="absolute inset-0 bg-black opacity-70"></div>
                         <div className="mx-auto text-white z-0 self-center uppercase">
                           Castillo de Osaka
+                        </div>
+                      </div>
+                      <img src={image7} alt="" />
+                    </div>
+
+                    {/*  */}
+
+                    <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Kiyomizudera @ Kyoto
                         </div>
                       </div>
                       <img src={image7} alt="" />
