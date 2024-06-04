@@ -201,6 +201,18 @@ function App() {
                       </div>
                       <img src={image16} alt="" />
                     </div>
+
+                                  {/*  */}
+
+                                <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Bamboo Forest @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image15} alt="" />
+                    </div>
                     
                     {/*  */}
 
@@ -226,17 +238,7 @@ function App() {
                       <img src={image3} alt="" />
                     </div>
 
-                    {/*  */}
-
-                                <div className="relative">
-                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
-                        <div className="absolute inset-0 bg-black opacity-70"></div>
-                        <div className="mx-auto text-white z-0 self-center uppercase">
-                          Bamboo Forest @ Arashiyama
-                        </div>
-                      </div>
-                      <img src={image15} alt="" />
-                    </div>
+      
 
                     {/*  */}
 
@@ -248,6 +250,18 @@ function App() {
                         </div>
                       </div>
                       <img src={image4} alt="" />
+                    </div>
+
+                                        {/*  */}
+
+                    <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Hankyu ARea @ Osaka
+                        </div>
+                      </div>
+                      <img src={image6} alt="" />
                     </div>
 
                     {/*  */}
@@ -262,17 +276,7 @@ function App() {
                       <img src={image14} alt="" />
                     </div>
 
-                    {/*  */}
 
-                    <div className="relative">
-                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
-                        <div className="absolute inset-0 bg-black opacity-70"></div>
-                        <div className="mx-auto text-white z-0 self-center uppercase">
-                          Hankyu ARea @ Osaka
-                        </div>
-                      </div>
-                      <img src={image6} alt="" />
-                    </div>
 
                     {/*  */}
 
@@ -922,6 +926,20 @@ function App() {
                       </div>
                       <img src={image14} alt="" />
                     </div>
+
+                                  
+
+                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Bosque de Bambús @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image15} alt="" />
+                    </div>
+
+                    {/*  */}
                     
                     <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
@@ -969,17 +987,7 @@ function App() {
                       <img src={image6} alt="" />
                     </div>
 
-                    {/*  */}
-
-                            <div className="relative">
-                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
-                        <div className="absolute inset-0 bg-black opacity-70"></div>
-                        <div className="mx-auto text-white z-0 self-center uppercase">
-                          Bosque de Bambús @ Arashiyama
-                        </div>
-                      </div>
-                      <img src={image15} alt="" />
-                    </div>
+      
 
                                         {/*  */}
 
@@ -1048,7 +1056,7 @@ function App() {
                           Kiyomizudera @ Kyoto
                         </div>
                       </div>
-                      <img src={image7} alt="" />
+                      <img src={image17} alt="" />
                     </div>
 
                     {/*  */}
