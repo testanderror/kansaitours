@@ -191,16 +191,17 @@ function App() {
                 <div>
                   <div className="grid grid-cols-2 gap-1 md:grid-cols-3">
                     {/*  */}
-                    
-             <div className="relative">
+
+                             <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
                         <div className="absolute inset-0 bg-black opacity-70"></div>
                         <div className="mx-auto text-white z-0 self-center uppercase">
-                          Tenryu Temple @ Arashiyama
+                          Dotonbori Bridge
                         </div>
                       </div>
-                      <img src={image16} alt="" />
+                      <img src={image11} alt="" />
                     </div>
+  
 
                                   {/*  */}
 
@@ -280,14 +281,15 @@ function App() {
 
                     {/*  */}
 
-                    <div className="relative">
+                        
+             <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
                         <div className="absolute inset-0 bg-black opacity-70"></div>
                         <div className="mx-auto text-white z-0 self-center uppercase">
-                          Dotonbori Bridge
+                          Tenryu Temple @ Arashiyama
                         </div>
                       </div>
-                      <img src={image11} alt="" />
+                      <img src={image16} alt="" />
                     </div>
 
                     {/*  */}
