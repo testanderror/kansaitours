@@ -19,6 +19,10 @@ import image14 from '../src/assets/pastTours/14.jpg';
 import image15 from '../src/assets/pastTours/15.jpg';
 import image16 from '../src/assets/pastTours/16.jpg';
 import image17 from '../src/assets/pastTours/17.jpg';
+import image18 from '../src/assets/pastTours/18.jpg';
+import image19 from '../src/assets/pastTours/19.jpg';
+import image20 from '../src/assets/pastTours/20.jpg';
+import image21 from '../src/assets/pastTours/21.jpg';
 
 function App() {
   const [language, setLanguage] = useState('english');
@@ -190,7 +194,32 @@ function App() {
               <>
                 <div>
                   <div className="grid grid-cols-2 gap-1 md:grid-cols-3">
+                    
+                                  {/*  */}
+
+                             <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Osaka Castle
+                        </div>
+                      </div>
+                      <img src={image21} alt="" />
+                    </div>
                     {/*  */}
+
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Shinsekai Alleys
+                        </div>
+                      </div>
+                      <img src={image22} alt="" />
+                    </div>
+                    {/*  */}
+
+                    
 
                              <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
@@ -215,6 +244,28 @@ function App() {
                       <img src={image15} alt="" />
                     </div>
                     
+                    {/*  */}
+                    
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Kuromon Markets @ Osaka
+                        </div>
+                      </div>
+                      <img src={image23} alt="" />
+                    </div>
+                    {/*  */}
+
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Tsutenkaku Tower Roof Cage
+                        </div>
+                      </div>
+                      <img src={image24} alt="" />
+                    </div>
                     {/*  */}
 
                     <div className="relative">
@@ -265,6 +316,27 @@ function App() {
                       <img src={image6} alt="" />
                     </div>
 
+                    {/*  */}
+
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Asahi Beer Museum @ Osaka
+                        </div>
+                      </div>
+                      <img src={image18} alt="" />
+                    </div>
+                    {/*  */}
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Abeno Harukas @ Tennoji
+                        </div>
+                      </div>
+                      <img src={image19} alt="" />
+                    </div>
                     {/*  */}
 
                               <div className="relative">
