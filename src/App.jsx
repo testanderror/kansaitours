@@ -991,6 +991,31 @@ function App() {
               <>
                 <div>
                   <div className="grid grid-cols-2 gap-1 md:grid-cols-3">
+
+                                       {/*  */}
+
+                             <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Castillo de Osaka
+                        </div>
+                      </div>
+                      <img src={image21} alt="" />
+                    </div>
+                    {/*  */}
+
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Callejones en Shinsekai 
+                        </div>
+                      </div>
+                      <img src={image22} alt="" />
+                    </div>
+                    {/*  */}
+                    
                     {/*  */}
 
 
@@ -1015,6 +1040,30 @@ function App() {
                       </div>
                       <img src={image15} alt="" />
                     </div>
+
+                      {/*  */}
+                    
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Mercados de Kuromon @ Osaka
+                        </div>
+                      </div>
+                      <img src={image23} alt="" />
+                    </div>
+                    {/*  */}
+
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          La Jaula @ Torre Tsutenkaku 
+                        </div>
+                      </div>
+                      <img src={image24} alt="" />
+                    </div>
+                    {/*  */}
 
                     {/*  */}
                     
@@ -1135,6 +1184,28 @@ function App() {
                       </div>
                       <img src={image17} alt="" />
                     </div>
+                     {/*  */}
+
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Museo de Asahi @ Suita, Osaka
+                        </div>
+                      </div>
+                      <img src={image18} alt="" />
+                    </div>
+                    {/*  */}
+                                            <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Abeno Harukas @ Tennoji
+                        </div>
+                      </div>
+                      <img src={image19} alt="" />
+                    </div>
+                    {/*  */}
 
                     {/*  */}
 
