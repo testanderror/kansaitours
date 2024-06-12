@@ -23,6 +23,9 @@ import image18 from '../src/assets/pastTours/18.jpg';
 import image19 from '../src/assets/pastTours/19.jpg';
 import image20 from '../src/assets/pastTours/20.jpg';
 import image21 from '../src/assets/pastTours/21.jpg';
+import image22 from '../src/assets/pastTours/22.jpg';
+import image23 from '../src/assets/pastTours/23.jpg';
+import image24 from '../src/assets/pastTours/24.jpg';
 
 function App() {
   const [language, setLanguage] = useState('english');
