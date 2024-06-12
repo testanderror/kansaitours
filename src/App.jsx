@@ -248,6 +248,36 @@ function App() {
                     </div>
                     
                     {/*  */}
+               
+                              <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Fushimi Inari @ Kyoto
+                        </div>
+                      </div>
+                      <img src={image14} alt="" />
+                    </div>
+
+
+
+                    {/*  */}
+
+                        
+             <div className="relative">
+                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
+                        <div className="absolute inset-0 bg-black opacity-70"></div>
+                        <div className="mx-auto text-white z-0 self-center uppercase">
+                          Tenryu Temple @ Arashiyama
+                        </div>
+                      </div>
+                      <img src={image16} alt="" />
+                    </div>
+
+                    
+                    {/*  */}
+
+
                     
                                             <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
@@ -340,34 +370,9 @@ function App() {
                       </div>
                       <img src={image19} alt="" />
                     </div>
+                    
                     {/*  */}
 
-                              <div className="relative">
-                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
-                        <div className="absolute inset-0 bg-black opacity-70"></div>
-                        <div className="mx-auto text-white z-0 self-center uppercase">
-                          Mount Top @ Fushimi Inari
-                        </div>
-                      </div>
-                      <img src={image14} alt="" />
-                    </div>
-
-
-
-                    {/*  */}
-
-                        
-             <div className="relative">
-                      <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
-                        <div className="absolute inset-0 bg-black opacity-70"></div>
-                        <div className="mx-auto text-white z-0 self-center uppercase">
-                          Tenryu Temple @ Arashiyama
-                        </div>
-                      </div>
-                      <img src={image16} alt="" />
-                    </div>
-
-                    {/*  */}
 
                     <div className="relative">
                       <div className="absolute inset-0 z-0 flex transition duration-200 ease-in hover:opacity-0">
