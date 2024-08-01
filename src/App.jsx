@@ -766,7 +766,7 @@ function App() {
                     TOURES EN ESPAÑOL
                   </p>
                   <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
-                    Exploremos juntos{' '}
+                    EXPLOREMOS JUNTOS{' '}
                     <span className="w-full text-3xl font-bold text-[#00df9a]">
                       KYOTO, NARA, KOBE
                     </span>{' '}
