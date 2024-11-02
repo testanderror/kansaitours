@@ -37,12 +37,12 @@ function App() {
         >
           <h1 className="w-full text-3xl font-bold text-[#00df9a]">
             <span className="w-full text-3xl font-bold text-[#FFF]">
-              KANSAI
+              KEIHAN
             </span>
             TOURS
           </h1>
 
-          <a href="https://www.instagram.com/kansai.tours/">
+          <a href="https://www.instagram.com/keihantours/">
             <img src={icon} className="mr-6" alt="" />
           </a>
 
@@ -125,7 +125,7 @@ function App() {
                     id="book"
                     className="bg-white w-[200px] relative top-[90px] rounded-md font-medium my-6 mx-auto py-3 text-[#00df9a] uppercase"
                   >
-                    <a href="https://api.whatsapp.com/send?phone=61406978776">
+                    <a href="https://api.whatsapp.com/send?phone=8107083711253">
                       Book Now <i className="ri-whatsapp-fill"></i>
                     </a>
                   </button>
@@ -361,7 +361,7 @@ function App() {
                         id="book"
                         className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-white uppercase"
                       >
-                        <a href="https://api.whatsapp.com/send?phone=61406978776">
+                        <a href="https://api.whatsapp.com/send?phone=8107083711253">
                           Inquire Here <i className="ri-whatsapp-fill"></i>
                         </a>
                       </button>
@@ -391,7 +391,7 @@ function App() {
                 <div className="w-full mx-auto mb-6 text-center flex flex-col justify-center">
                   <p className="w-full text-xs font-bold text-[#00df9a]">
                     <span className="w-full text-xs font-bold text-[#FFF]">
-                      KANSAI
+                      KEIHAN
                     </span>
                     TOURS
                     <span className="w-full text-xs font-bold text-[#FFF]">
@@ -469,7 +469,7 @@ function App() {
                     id="book"
                     className="bg-white w-[200px] relative top-[90px] rounded-md font-medium my-6 mx-auto py-3 text-[#00df9a] uppercase"
                   >
-                    <a href="https://api.whatsapp.com/send?phone=61406978776">
+                    <a href="https://api.whatsapp.com/send?phone=8107083711253">
                       Agendar Ahora <i className="ri-whatsapp-fill"></i>
                     </a>
                   </button>
@@ -709,7 +709,7 @@ function App() {
                         id="book"
                         className="bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-white uppercase"
                       >
-                        <a href="https://api.whatsapp.com/send?phone=61406978776">
+                        <a href="https://api.whatsapp.com/send?phone=8107083711253">
                           Consulta Aquí <i className="ri-whatsapp-fill"></i>
                         </a>
                       </button>
@@ -739,7 +739,7 @@ function App() {
                 <div className="w-full mx-auto mb-6 text-center flex flex-col justify-center">
                   <p className="w-full text-xs font-bold text-[#00df9a]">
                     <span className="w-full text-xs font-bold text-[#FFF]">
-                      KANSAI
+                      KEIHAN
                     </span>
                     TOURS
                     <span className="w-full text-xs font-bold text-[#FFF]">
